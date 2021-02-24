@@ -1,5 +1,5 @@
 # kickstarter-analysis
-Analysis of Kickstarter Campaigns for Louis's Play *Fever*
+##Overiew and Purpose
 ---
 Louise, an up and coming play writer  is looking to run a campaign to help fund her play *Fever*. She has reached out to us to help her with this task.
 
