@@ -21,3 +21,15 @@ The second analysis was aimed at understanding the outomes of plays based on the
 
 ## Results
 
+### Theater Outcomes by Launch Date
+
+- Conclusion 1:
+- Conclusion 2:
+
+### Outcomes based on Goals
+
+- Conclusion 1: 
+
+### Summary
+
+
