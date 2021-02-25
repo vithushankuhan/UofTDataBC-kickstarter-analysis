@@ -24,7 +24,7 @@ The second analysis was aimed at understanding the outomes of plays based on the
 
 ### Theater Outcomes by Launch Date
 
-- Conclusion 1:
+- Conclusion 1: First, we can see that the time of year does has an impact on the success of campaigns. Looking at the chart, it is clear that launching a campaign in the summer is most effective. More specifically, the months May, June, and July result in the most successful campaigns. The opposite is true for the winter months. Since the summer months, there is a clear decline in successful campaigns, with the month of December having only 37 successful campaigns. Although there are successful campaigns in November, December, and January, it significantly less than the summer months. Therefore it is clear that Louise should aim to run her campaign in May, June, or July. 
 - Conclusion 2:
 
 ### Outcomes based on Goals
