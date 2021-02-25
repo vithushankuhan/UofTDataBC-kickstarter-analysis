@@ -20,4 +20,4 @@ The second analysis was aimed at understanding the outomes of plays based on the
 ### Challenges
 
 ## Results
-![alt text](https://github.com/[vithushankuhan]/[kickstarter-analysis]/blob/[kickstarter-analysis]/Theater_Outcomes_vs_Launch.png?raw=true)
+!(https://github.com/[vithushankuhan]/[kickstarter-analysis]/blob/[kickstarter-analysis]/Theater_Outcomes_vs_Launch.png?raw=true)
