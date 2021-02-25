@@ -1,4 +1,4 @@
-# kickstarter-analysis
+# Kickstarter Campaign Analysis
 ## Overview and Purpose
 
 Louise, an up-and-coming play writer, is looking to run a kickstarter campaign to help fund her play *Fever*. She has reached out to me to help her with this task.
