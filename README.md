@@ -12,6 +12,7 @@ In order to determine the appropirate launch date and funding for Louise's play,
 
 The first analysis was aimed at understanding the outcomes of plays by launch date. We wanted to know if launching a campaign at a certain time in the year was more effective. A pivot table was created from the raw data, and filterd by year and parent category. The parent category for this analysis was 'theatre'. 
 
+
 ### Outcome Based on Goals
 
 The second analysis was aimed at understanding the outomes of plays based on their funding goals. By conducing this analysis, Louise can determine the appropriate funding for her play. This data also shows the impact of having low and high funding goals. By looking at the table and chart, Louise can either lower, raise, or maintain her funding estimate. 
@@ -19,3 +20,4 @@ The second analysis was aimed at understanding the outomes of plays based on the
 ### Challenges
 
 ## Results
+![alt text](https://github.com/[vithushankuhan]/[kickstarter-analysis]/blob/[kickstarter-analysis]/Theater_Outcomes_vs_Launch.png?raw=true)
