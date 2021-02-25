@@ -25,10 +25,15 @@ The second analysis was aimed at understanding the outomes of plays based on the
 ### Theater Outcomes by Launch Date
 
 - Conclusion 1: We can see that the time of year does has an impact on the success of campaigns. Looking at the chart, it is clear that launching a campaign in the summer is most effective. More specifically, the months May, June, and July result in the most successful campaigns. The opposite is true for the winter months. Since the summer months, there is a clear decline in successful campaigns, with the month of December having only 37 successful campaigns. Although there are successful campaigns in November, December, and January, it significantly less than the summer months. Therefore it is clear that Louise should aim to run her campaign in May, June, or July. 
+
 - Conclusion 2: While May, June, and July have the most number of successful campaigns, the three months also have the highest number of failed campaigns, and the highest number of campaigns overall. What this could mean is that competition in these months is high, and as a result many campaigns may not reach its funding goal as people may prefer to support another campaign that they like more. Therefore, if Louise does plan to launch her campaign in the summer she will need to do extensive reseearch on other playwriteers who are also launching a campaign during the same time. This will allow Louise to present a much more appealing campaign, and reach her fundraising goal.
+
+![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/76541288/109235100-01df9c00-779b-11eb-9212-5a2581440cea.png)
 
 ### Outcomes based on Goals
 
 - Conclusion 1: From the chart, it is clear that campaigns were more successful when the funding goals were low. After a goal of $15,000, there were more failled campaigns than successful. As mentioned above, Louise estimate a budget of $10,000. She should aim to keep her funding around her estimate, and if possible lower it to below $10,000. Increasing her budget also increases the chances of her campaign failing. 
+
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/76541288/109235185-2c315980-779b-11eb-92c9-532cd5205e4d.png)
 
 ### Summary
