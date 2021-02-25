@@ -7,4 +7,4 @@ The purpose of this analysis is to uncover trends from various kickstarter campa
 
 ## Analysis and Challenges
 
-## Challenges and Difficulties Encountered
+## Results
