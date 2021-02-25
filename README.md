@@ -17,7 +17,8 @@ The second analysis was aimed at understanding the outomes of plays based on the
 
 ### Challenges and Limitations
 
-While this project did not have any challenges, there are a challenges that will need to be considered for future projects.  
+- Challenge/Limitation 1: One piece of information that would be useful in determining the funding Louise should plan to recieve is the length of her campaign. Additionally, knowing the length of her campaign can help us compare similar campaigns with her desired duration and find insight into how to efficiently run a campaign for her desired duration. 
+- Challenge/Limitation 2: The information we worked with only looks at campaigns from 2009-2017. It would be useful to have data from recent years as it would allow for a more accurate representation of what Louise can expect in today's entertainment landscape. Things have definetly changed over the past few years, and knowing what we know now, it may not be the ebst idea to raise funding for a play that might not happen for months under the current circumstances. Having recent data can help use determine trends in today's environement and provide Louise a more accurate picture.  
 
 ## Results
 
