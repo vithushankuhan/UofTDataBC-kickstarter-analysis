@@ -29,6 +29,6 @@ The second analysis was aimed at understanding the outomes of plays based on the
 
 ### Outcomes based on Goals
 
-- Conclusion 1: 
+- Conclusion 1: From the chart, it is clear that campaigns were more successful when the funding goals were low. After a goal of $15,000, there were more failled campaigns than successful. As mentioned above, Louise estimate a budget of $10,000. She should aim to keep her funding around her estimate, and if possible lower it to below $10,000. Increasing her budget also increases the chances of her campaign failing. 
 
 ### Summary
