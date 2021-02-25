@@ -6,7 +6,7 @@ Louise would like to know how other similar play campaigns performed based on th
 
 ## Analysis and Challenges
 
-In order to determine the appropirate launch date and funding for Louise's play, the analysis was into 'Outcomes By Launch Date' and 'Outcome Based on Goals'. Pivot tables, charts, and excel functions were used to organize, clean, and present the data. 
+In order to determine the appropirate launch date and funding for Louise's play the analysis was split into two parts, 'Outcomes By Launch Date' and 'Outcome Based on Goals'. Pivot tables, charts, and excel functions were used to organize, clean, and present the data. 
 
 ### Outcomes By Launch Date
 
