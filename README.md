@@ -5,7 +5,7 @@ Louise, an up-and-coming play writer, is looking to run a kickstarter campaign t
 
 ## Analysis and Challenges
 
-In order to determine the appropirate launch date and funding for Louise's play the analysis was split into two parts, 'Outcomes By Launch Date' and 'Outcome Based on Goals'. Pivot tables, charts, and excel functions were used to organize, clean, and present the data. 
+In order to determine the appropirate launch date and funding for Louise's play the analysis was split into two parts, 'Outcomes By Launch Date' and 'Outcome Based on Goals'. Pivot tables, charts, and excel functions were used to organize, clean, and present the data. All images in this section can be found in Resources.zip. 
 
 ### Outcomes By Launch Date
 
