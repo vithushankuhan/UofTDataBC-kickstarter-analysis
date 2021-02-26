@@ -5,7 +5,7 @@ Louise, an up-and-coming play writer, is looking to run a kickstarter campaign t
 
 ## Analysis and Challenges
 
-In order to determine the appropirate launch date and funding for Louise's play the analysis was split into two parts, 'Outcomes By Launch Date' and 'Outcome Based on Goals'. Pivot tables, charts, and excel functions were used to organize, clean, and present the data. All images in this section can be found in Resources.zip. 
+In order to determine the appropirate launch date and funding for Louise's play the analysis was split into two parts, 'Outcomes By Launch Date' and 'Outcome Based on Goals'. Pivot tables, charts, and excel functions were used to organize, clean, and present the data. All tables in this section can be found in Kickstarter_Challenge.zip. 
 
 ### Outcomes By Launch Date
 
@@ -27,6 +27,8 @@ The second analysis was aimed at understanding the outomes of plays based on the
 ## Results
 
 ### Theater Outcomes by Launch Date
+
+All images in this section can be found in Resources.zip.
 
 - Conclusion 1: We can see that the time of year does has an impact on the success of campaigns. Looking at the chart, it is clear that launching a campaign in the summer is most effective. More specifically, the months May, June, and July result in the most successful campaigns. The opposite is true for the winter months. Since the summer months, there is a clear decline in successful campaigns, with the month of December having only 37 successful campaigns. Although there are successful campaigns in November, December, and January, it significantly less than the summer months. Therefore it is clear that Louise should aim to run her campaign in May, June, or July. 
 
