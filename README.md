@@ -42,6 +42,6 @@ All images in this section can be found in Resources.zip.
 
 ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/76541288/109235185-2c315980-779b-11eb-92c9-532cd5205e4d.png)
 
-### Summary
+## Summary
 
 In summary, Louise should continue with her kickstarter campaign if she takes the following recommendations into consideration. First, her campaign should be launched in the summer months as this time of the years shows to have the most number of successful campaigns. Second, her budget estimate of $10,000 looks to be an appropriate funding goal. However, to further increase the effectiveness of her campaign, she should aim to keep it lower than her estimate bring it down as low as possible. Furthermore, there are some limitiations to this analysis as mentioned earlier. First, the duration of Louise's campaign would be useful in determining an appropriate budget. Second, is the accuracy of data that was analyzed. The data for this analysis on cover the years 2009-2017. Having more recent data will help present Louise with a more accurate picture of what it is like to run a campaign in today's entertainment landscape, as well as help predict future trends. For future projects, it can be recommended to have tables and charts that look at campaign blurbs in relation to their outcome. This can provide interesting insight into keywords or phrases that impact the success of a campaign. 
