@@ -9,11 +9,15 @@ In order to determine the appropirate launch date and funding for Louise's play 
 
 ### Outcomes By Launch Date
 
-The first analysis was aimed at understanding the outcomes of plays by launch date. We wanted to know if launching a campaign at a certain time in the year was more effective. A pivot table was created from the raw data, and filterd by year and parent category. The parent category for this analysis was 'theatre'. 
+The first analysis was aimed at understanding the outcomes of plays by launch date. We wanted to know if launching a campaign at a certain time in the year was more effective. A pivot table was created from the raw data, and filterd by year and parent category. The parent category for this analysis was 'theatre'. Below is the pivot table created from the raw data. It shows the number of successful, failed, and cancelled campaigns based on when they were launched. This table and a chart formed from the table will be used to draw conclusions about the best launch date.
+
+<img width="325" alt="Outcome_By_LaunchDate_Pivot" src="https://user-images.githubusercontent.com/76541288/109333589-a1e60580-782d-11eb-9c59-945d98bb9b32.png">
 
 ### Outcome Based on Goals
 
-The second analysis was aimed at understanding the outomes of plays based on their funding goals. By conducing this analysis, Louise can determine the appropriate funding for her play. This data also shows the impact of having low and high funding goals. By looking at the table and chart, Louise can either lower, raise, or maintain her funding estimate. 
+The second analysis was aimed at understanding the outomes of plays based on their funding goals. By conducing this analysis, Louise can determine the appropriate funding for her play. This data also shows the impact of having low and high funding goals. By looking at the table and chart, Louise can either lower, raise, or maintain her funding estimate. The table below shows all the funding goals of play campaigns. This table and a chart formed from the table will be used to draw conclusions about the best funding goal for Louise's campaign.
+
+<img width="735" alt="Outcome_By_Goal_Table" src="https://user-images.githubusercontent.com/76541288/109333876-fb4e3480-782d-11eb-9f13-a50f95694020.png">
 
 ### Challenges and Limitations
 
@@ -38,4 +42,4 @@ The second analysis was aimed at understanding the outomes of plays based on the
 
 ### Summary
 
-In summary, Louise should continue with her kickstarter campaign if she takes the following recommendations into consideration. First, her campaign should be launched in the summer months as this time of the years shows to have the most number of successful campaigns. Second, her budget estimate of $10,000 looks to be an appropriate funding goal. However, to further increase the effectiveness of her campaign, she should aim to keep it lower than her estimate bring it down as low as possible.
+In summary, Louise should continue with her kickstarter campaign if she takes the following recommendations into consideration. First, her campaign should be launched in the summer months as this time of the years shows to have the most number of successful campaigns. Second, her budget estimate of $10,000 looks to be an appropriate funding goal. However, to further increase the effectiveness of her campaign, she should aim to keep it lower than her estimate bring it down as low as possible. Furthermore, there are some limitiations to this analysis as mentioned earlier. First, the duration of Louise's campaign would be useful in determining an appropriate budget. Second, is the accuracy of data that was analyzed. The data for this analysis on cover the years 2009-2017. Having more recent data will help present Louise with a more accurate picture of what it is like to run a campaign in today's entertainment landscape, as well as help predict future trends. For future projects, it can be recommended to have tables and charts that look at campaign blurbs in relation to their outcome. This can provide interesting insight into keywords or phrases that impact the success of a campaign. 
