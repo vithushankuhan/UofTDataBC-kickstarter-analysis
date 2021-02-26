@@ -37,3 +37,5 @@ The second analysis was aimed at understanding the outomes of plays based on the
 ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/76541288/109235185-2c315980-779b-11eb-92c9-532cd5205e4d.png)
 
 ### Summary
+
+In summary, Louise should continue with her kickstarter campaign if she takes the following recommendations into consideration. First, her campaign should be launched in the summer months as this time of the years shows to have the most number of successful campaigns. Second, her budget estimate of $10,000 looks to be an appropriate funding goal. However, to further increase the effectiveness of her campaign, she should aim to keep it lower than her estimate bring it down as low as possible.
